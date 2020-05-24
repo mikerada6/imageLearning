@@ -1,0 +1,1 @@
+places the images you which to train here under the folders "Training" and "Validation".
